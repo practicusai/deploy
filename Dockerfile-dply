@@ -1,0 +1,3 @@
+FROM ghcr.io/practicusai/practicus-base:22.11.0
+
+ENTRYPOINT ["tail", "-f", "/dev/null"]
