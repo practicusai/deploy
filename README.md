@@ -15,7 +15,12 @@ Please visit Practicus AI documentation at [https://docs.practicus.ai](https://d
 docker pull ghcr.io/practicusai/practicus:latest
 ```
 
-#### Pulling latest nighlyt build image
+#### Pulling nighlyt build image
 ```shell
 docker pull ghcr.io/practicusai/practicus:preview
+```
+
+#### Pulling a particular version 
+```shell
+docker pull ghcr.io/practicusai/practicus:22.11.0
 ```
